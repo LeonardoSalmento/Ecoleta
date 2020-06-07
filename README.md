@@ -1,2 +1,5 @@
 # Ecoleta
-Projeto da RocketSeat na NLW, coleta de itens
+# Backend da aplicação
+Desenvolvida em Node + TypeScript
+
+
