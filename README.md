@@ -1,5 +1,3 @@
 # Ecoleta
 # Backend da aplicação
-Desenvolvida em Node + TypeScript
-
-
+Desenvolvida em Node
